@@ -1,1 +1,32 @@
-
+<!Doctype html <<i class="fa fa-hashtag" aria-hidden="true"></i>
+<i class="fa fa-wheelchair" aria-hidden="true">
+    <i class="fa fa-remove" aria-hidden="true">
+{
+        "deposits":[
+        {
+            "ID": 1,
+            "MechanicHours": 60
+        },
+        {
+            "ID": 2,
+            "MechanicHours": 135
+        },
+        {
+            "ID": 3,
+            "MechanicHours": 188
+        },
+        {
+            "ID": 4,
+            "MechanicHours": 97
+        },
+        {
+            "ID": 5,
+            "MechanicHours": 164
+        }
+    ] 
+}   </i>
+</i>
+<SELECT></SELECT>FROM notifications
+WHERE studentID=1042 AND isRead = false
+ORDER BY createdAt DESC;
+http://20.207.122.201/evaluation-service/notifications
