@@ -1,1 +1,26 @@
-
+<!Doctype html <h1>AFFORDMED</h1><i class="fa fa-hashtag" aria-hidden="true"></i>
+<i class="fa fa-wheelchair" aria-hidden="true">
+    <i class="fa fa-remove" aria-hidden="true">
+{
+    "vehicles" : [
+    {
+        "TaskID": "264e638f-1c7a-4d67-9f9c-53f3d1766d37",
+        "Duration": 1,
+        "Impact": 5
+    },
+    {[
+        "TaskId": 73ce9dca-1536-4a7a-9f1e-c67083afaad61",
+        "Duration" 6,
+        "Impact": 2 
+    },
+    {
+        "TaskID": "4b6e22ee-b4ed-45a4-a6af-5294b0d69f37",
+        "Duration": 1
+        "Impact": 3
+    }]   
+    
+}   </i>
+</i>
+<SELECT></SELECT>FROM notifications
+WHERE studentID=1042 AND isRead = false
+ORDER BY createdAt DESC;
